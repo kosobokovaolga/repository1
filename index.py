@@ -6,3 +6,4 @@ for i in range(5):
 ptint('Hi')
 print('it is zhopa')
 print('<3')
+print(')))')

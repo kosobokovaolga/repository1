@@ -4,3 +4,4 @@ for i in range(5):
     print(i)
 
 ptint('Hi')
+print('it is zhopa')
